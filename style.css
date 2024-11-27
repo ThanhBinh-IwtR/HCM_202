@@ -63,7 +63,7 @@
 	/*----*****---- << 1.2. Fonts >> ----*****----*/
 	
 	body, p, input, textarea, .mailchimp-form p input, input[type="submit"], input[type="button"], .about-details p, .breadcrumb h2 span, .dt-sc-service-content p, .shop-dropdown ul li span, .shop-dropdown span span,
-	.project-details ul.client-details li span, .project-details ul.client-details li p { font-family: 'PT Sans Narrow', sans-serif;}
+	.project-details ul.client-details li span, .project-details ul.client-details li p { font-family: 'Be Vietnam Pro', sans-serif;}
 	
 	.main-title h1, .main-title h2, .main-title h3, .main-title h4, .main-title h5, .main-title h6, .main-title h3, .entry-details .entry-title h3, .about-section h3, .breadcrumb h2, blockquote q, .post-author-details .author-desc p, .total-overlay-sticky #navigation .sub-menu a, .total-overlay-sticky .menu.type2 > li > a, header nav ul li a, header .copyrights { font-family: 'Josefin Sans', sans-serif; font-weight: 100;}
 	
